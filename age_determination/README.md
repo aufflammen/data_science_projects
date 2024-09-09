@@ -8,4 +8,4 @@
 <br><br>
 
 ### Stack
-`torch`, `torchvision` `scikit-learn`, `pandas`, `matplotlib`, `seaborn`
+`torch`, `torchvision`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn`

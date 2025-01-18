@@ -1,0 +1,11 @@
+| # | Проект | Описание | Стек |
+| --- | --- | --- | --- |
+| 01 | [Видео игры](01_video_games/video_games.ipynb) | Выявление факторов, определяющих успешность видеоигр | `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn` |
+| 02 | [Удовлетворенность сотрудников](02_employee_satisfaction_level/employee_satisfaction_level.ipynb) | Предсказание уровня удовлетворённости сотрудников и вероятности увольнения | `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `shap` |
+| 03 | [Стоимость автомобилей](03_forecasting_car_prices/forecasting_car_prices.ipynb) | Предсказание стоимости автомобилей на основе технических характеристик | `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `catboost`, `lightgbm`, `xgboost`, `optuna` |
+| 04 | [Прогноз заказов такси (time series)](04_taxi_%5Btime_series%5D/taxi.ipynb) | Прогнозирование количества заказов такси на следующий час | `statsmodels`, `arima`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `catboost`, `lightgbm`, `optuna` |
+| 05 | [Токсичность комментариев (NLP)](05_toxic_comments_%5Bnlp%5D/toxic_comments.ipynb) | Классификация комментариев на позитивные и негативные | `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `catboost`, `optuna`, `spacy`, `gensim`, `transformers` |
+| 06 | [Определение возраста по фото (CV)](06_age_determination_%5Bcv%5D/age_determination.ipynb) | Определение приблизительного возраста человека по фотографии | `torch`, `torchvision`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn` |
+| 07 | [Телеком](07_telecom/telecom.ipynb) | Прогнозирование разрыва договора клиентом  | `scikit-learn`, `catboost`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `optuna`, `shap` |
+| 08 | [Journey to Springfield (CV)](08_journey_to_springfield_%5Bcv%5D/simpsons_classification.ipynb) | Классификация изображений Симпсонов | `torch`, `torchvision`, `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn` |
+| 09 | [EasyOCR cyrillic train (CV)](09_easyocr_%5Bcv%5D/notebook.ipynb) | Обучение модели EasyOCR на сгенерированных данных | `easyocr`, `torch`, `albumentations` |
